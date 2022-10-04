@@ -36,11 +36,11 @@ def scan_port(ipaddress, port):
 		sock.connect((ipaddress, port))
 
 		try:
-			banner = get_banner(sock)
-			print('[+] Port' + str(port) + ' is Open ' + ' : ' + str(banner.decode().strip('\n')) 
-
+		  banner = get_banner(sock)
+		  print('[+] Port' + str(port) + ' is Open ' + ' : ' + str(banner.decode().strip('\n'))) 
 		except:
-			print('[+] Port '  + str(port) + ' is Open ')
+		  print('[+] Port '  + str(port) + ' is Open ')
+            
 	except:
 		pass
 
@@ -51,4 +51,3 @@ if __name__ == "__main__":
 			scan(ip_address.strip(' '))
 	else:
 		scan(targets)
-
