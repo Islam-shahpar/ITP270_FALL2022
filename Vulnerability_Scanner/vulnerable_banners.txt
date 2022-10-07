@@ -1,0 +1,28 @@
+ProFTPD 1.3.5 Server (ProFTPD Default Installation)
+SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2
+ipp
+3Com 3CDaemon FTP Server Version 2.0
+220-FileZilla Server version 0.9.41 beta
+Ability Server 2.34
+CCProxy Telnet Service Ready
+ESMTP TABS Mail Server for Windows NT
+FreeFloat Ftp Server (Version 1.00)
+IMAP4rev1 MDaemon 9.6.4 ready
+MailEnable Service, Version: 0-1.54
+NetDecision-HTTP-Server 1.0
+PSO Proxy 0.9
+SAMBAR Sami FTP Server 2.0.2
+Spipe 1.0
+Apache httpd 2.4.7
+TelSrv 1.5
+WDaemon 6.8.5
+WinGate 6.1.1
+Xitami
+YahooPOPs! Simple Mail Transfer Service Ready
+http-server-header: Apache/2.4.7
+netbios-ssn Samba smbd 4.3.11
+CUPS 1.7
+T\x00\x00\x00\xFFj\x04
+WEBrick httpd 1.3.1
+UnrealIRCd
+intermapper
