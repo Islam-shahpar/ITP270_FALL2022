@@ -1,0 +1,2 @@
+ *SHIFT* Helli *BACKSPACE* o  *SHIFT* ITP270 *SHIFT* !  *SHIFT* Welcome to your first keylogger *SHIFT* !
+Key.ctrlz
